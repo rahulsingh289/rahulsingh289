@@ -1,56 +1,82 @@
 # Hi, I'm Rahul Singh 👋
 
-### B.Tech Computer Science Student | MERN Stack Developer
+I'm a Computer Science Engineering student at **Graphic Era Hill University, Dehradun**, passionate about building practical, real-world, and user-focused applications.
 
-I am a Computer Science Engineering student focused on **full-stack web development** and building practical, user-oriented applications.
-
-My primary focus is the **MERN stack**, with additional experience in AI-integrated applications, backend development, databases, and software engineering fundamentals.
+I enjoy solving challenging problems, exploring new technologies, and continuously learning to become a better developer.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science Engineering
-* 💻 Focused on **MERN Stack Development**
-* 🌐 Building full-stack applications with **React, Node.js, Express.js & MongoDB**
-* 🤖 Exploring **AI/LLM integration** in web applications
-* 🧠 Strengthening **Data Structures & Algorithms with C++**
-* 🔧 Interested in backend systems, REST APIs, databases, and scalable applications
-
----
-
-## Tech Stack
-
-**Languages**
-
-`C++` `JavaScript` `Java` `Python`
-
-**Frontend**
-
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `Bootstrap`
-
-**Backend**
-
-`Node.js` `Express.js` `REST APIs` `JWT`
-
-**Database**
-
-`MongoDB` `Mongoose` `PostgreSQL` `Supabase`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
-
-**AI**
-
-`LLM Integration` `AI APIs` `AI-Assisted Development`
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- ⚙️ Building full-stack applications with **React, Node.js, Express.js & MongoDB**
+- 🤖 Exploring **AI/LLM integration** in web applications
+- 🧠 Strengthening **Data Structures & Algorithms with C++**
+- 🔧 Interested in **backend systems, REST APIs, databases & scalable applications**
+- 💻 Currently working on **full-stack and AI-powered projects**
+- 🧩 Active on **Leetcode** with 100 Days Badge- Solving in c++;
 
 ---
 
-## Connect
+## 🛠️ Tech Stack
 
-[LinkedIn](https://www.linkedin.com/in/rahul-singh-64a861300/) • [LeetCode](https://leetcode.com/u/rahulsingh28/) • [GitHub](https://github.com/rahulsingh289)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,postgresql,mysql,git,github&perline=8" />
+</p>
 
 ---
 
-*Building, learning, and improving*
+## 🌱 Currently Exploring
+
+- 🤖 **AI/LLM integration** with web applications
+- 🧠 **AI & Machine Learning**
+- 🔎 **Vector Databases & AI-powered search**
+- ⚡ **Redis** for caching and application performance
+- 🐳 **Docker & Kubernetes** for containerization and orchestration
+- 🔄 **CI/CD & automated deployment**
+- ☁️ **Cloud technologies & scalable applications**
+- 🧩 **Backend architecture & distributed systems**
+
+---
+
+## 🚀 Featured Project
+
+### 🏠 [Staylytics AI](https://github.com/rahulsingh289/AI-Powered-Smart-Review-Analyzer)
+
+**React • Vite • Tailwind CSS • Node.js • Express.js • Prisma • PostgreSQL • Gemini**
+
+An AI-powered homestay review analyzer using the Google Gemini API for sentiment analysis, theme extraction, and review insights. React powers the UI, while Node.js & Express.js handle the backend and REST APIs, with Prisma & PostgreSQL managing data and JWT securing authentication.
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/rahulsingh28/">
+    <img src="https://leetcard.jacoblin.cool/rahulsingh28?theme=dark&font=baloo&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 **Portfolio:** [rahulsingh28.vercel.app](https://rahulsingh28.vercel.app/)
+- 💼 **LinkedIn:** [Rahul Singh](https://www.linkedin.com/in/rahul-singh-64a861300/)
+- 🐙 **GitHub:** [rahulsingh289](https://github.com/rahulsingh289)
+- 🧩 **LeetCode:** [rahulsingh28](https://leetcode.com/u/rahulsingh28/)
+- 📧 **Email:** rahulsingh290k@gmail.com
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving 🚀</i>
+</p>
+
+<p align="center">
+  <i>Let's connect and build something great together!</i>
+</p>
