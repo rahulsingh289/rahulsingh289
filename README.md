@@ -47,9 +47,9 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 ### 🏠 [Staylytics AI](https://github.com/rahulsingh289/AI-Powered-Smart-Review-Analyzer)
 
-**React • Vite • Tailwind CSS • Node.js • Express.js • Prisma • PostgreSQL • Gemini**
+**React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini**
 
-An AI-powered homestay review analyzer using the Google Gemini API for sentiment analysis, theme extraction, and review insights. React powers the UI, while Node.js & Express.js handle the backend and REST APIs, with Prisma & PostgreSQL managing data and JWT securing authentication.
+An AI-powered Homestay Review Analyzer Platform that transforms guest reviews into actionable insights. It uses Google Gemini for sentiment analysis, theme extraction, Net Sentiment Score (NSS), and contextual host response generation, with a rule-based NLP fallback for reliability when the AI API fails or times out. React powers the frontend, while Node.js & Express.js handle the backend and REST APIs, with MongoDB managing application data and JWT securing authentication.
 
 ---
 
