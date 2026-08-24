@@ -14,7 +14,7 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 - 🧠 Strengthening **Data Structures & Algorithms with C++**
 - 🔧 Interested in **backend systems, REST APIs, databases & scalable applications**
 - 💻 Currently working on **full-stack and AI-powered projects**
-- 🧩 Active on **Leetcode** with 100 Days Badge- Solving in c++;
+- 🧩 Active on **Leetcode** with 100 Days Badge- Solving in C++
 
 ---
 
