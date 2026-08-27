@@ -21,11 +21,11 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react&perline=9" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,postgresql,mysql,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,git,github&perline=8" />
 </p>
 
 ---
