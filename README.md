@@ -30,16 +30,7 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 ---
 
-## 🌱 Currently Exploring
-
-- 🤖 **AI/LLM integration** with web applications
-- 🧠 **AI & Machine Learning**
-- 🔎 **Vector Databases & AI-powered search**
-- ⚡ **Redis** for caching and application performance
-- 🐳 **Docker & Kubernetes** for containerization and orchestration
-- 🔄 **CI/CD & automated deployment**
-- ☁️ **Cloud technologies & scalable applications**
-- 🧩 **Backend architecture & distributed systems**
+ i
 
 ---
 
@@ -63,6 +54,16 @@ An AI-powered Homestay Review Analyzer Platform that transforms guest reviews in
 </p>
 
 ---
+
+
+## 🪐 Outside the Terminal
+
+- 🎧 I enjoy listening to **80s & 90s music**
+- ✍️ I write a **daily journal** to reflect, organize my thoughts, and track my growth.
+- ☕ I enjoy **midnight coffee** and late-night thoughts.
+- 🕯️ I enjoy **horror movies**, especially stories that leave you thinking after the credits.
+
+
 
 ## 📬 Get in Touch
 
