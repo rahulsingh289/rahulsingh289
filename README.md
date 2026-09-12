@@ -21,11 +21,11 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,bootstrap&perline=9" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,git,github,postman&perline=9" />
 </p>
 
 ---
@@ -49,7 +49,8 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 **React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini**
 
-An AI-powered Homestay Review Analyzer Platform that transforms guest reviews into actionable insights. It uses Google Gemini for sentiment analysis, theme extraction, Net Sentiment Score (NSS), and contextual host response generation, with a rule-based NLP fallback for reliability when the AI API fails or times out. React powers the frontend, while Node.js & Express.js handle the backend and REST APIs, with MongoDB managing application data and JWT securing authentication.
+An AI-powered Homestay Review Analyzer Platform that transforms guest reviews into actionable insights. It uses Google Gemini for sentiment analysis, theme extraction, Net Sentiment Score (NSS), and contextual host response generation, with a rule-based NLP fallback for reliability when the AI API fails or times out. React powers the frontend, while Node.js & Express.js handle the backend and REST APIs, with MongoDB managing application data and JWT securing authentication. 🔥 <a href="https://ai-powered-smart-review-analyzer.vercel.app/"><strong><u>𝑺𝒆𝒆 𝑰𝒕 𝑳𝒊𝒗𝒆</u></strong></a>
+
 
 ---
 
