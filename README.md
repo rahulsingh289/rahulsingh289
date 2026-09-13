@@ -25,7 +25,7 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,git,github,postman,Redis&perline=9" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb,mysql,git,github,postman,redis&perline=9" />
 </p>
 
 ---
