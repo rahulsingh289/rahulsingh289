@@ -30,10 +30,6 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 ---
 
- i
-
----
-
 ## 🚀 Featured Project
 
 ### 🏠 [Staylytics AI](https://github.com/rahulsingh289/AI-Powered-Smart-Review-Analyzer)
