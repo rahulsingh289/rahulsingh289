@@ -39,7 +39,8 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 An AI-powered Homestay Review Analyzer Platform that transforms guest reviews into actionable insights. It uses Google Gemini for sentiment analysis, theme extraction, Net Sentiment Score (NSS), and contextual host response generation, with a rule-based NLP fallback for reliability when the AI API fails or times out. React powers the frontend, while Node.js & Express.js handle the backend and REST APIs, with MongoDB managing application data and JWT securing authentication. 🔥 <a href="https://ai-powered-smart-review-analyzer.vercel.app/"><strong><u>𝑺𝒆𝒆 𝑰𝒕 𝑳𝒊𝒗𝒆</u></strong></a>
 
 ### 🏠 [Neurix]
-Neurix is a modern full-stack AI conversational assistant built to deliver a smooth and intuitive AI chat experience. It allows users to interact with an AI model through a responsive interface, manage conversations, and receive context-aware responses. The project brings together frontend development, backend services, database management, and AI integration into a single application.
+React • Vite • Tailwind CSS • Node.js • Express.js • API
+Neurix is a modern full-stack AI conversational assistant built to deliver a smooth and intuitive AI chat experience. It allows users to interact with an AI model through a responsive interface, manage conversations, and receive context-aware responses. The project brings together frontend development, backend services, database management, REST APIs, authentication, and AI integration into a single application.
 ---
 
 ## 🧩 LeetCode
