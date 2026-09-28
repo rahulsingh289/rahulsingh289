@@ -10,11 +10,9 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
 - ⚙️ Building full-stack applications with **React, Node.js, Express.js & MongoDB**
-- 🤖 Exploring **AI/LLM integration** in web applications
 - 🧠 Strengthening **Data Structures & Algorithms with C++**
 - 🔧 Interested in **backend systems, REST APIs, databases & scalable applications**
-- 💻 Currently working on **full-stack and AI-powered projects**
-- 🧩 Active on **Leetcode** with 100 Days Badge- Solving in C++
+- 🧩 Active on **Leetcode** with 200 Days Badge- Solving in C++
 
 ---
 
@@ -29,8 +27,17 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 </p>
 
 ---
+## 🌱 Currently Exploring
 
-## 🚀 Featured Project
+- 🧩 **System Design** — Studying architectural patterns, scalability, fault tolerance, and the trade-offs behind building large-scale applications
+
+- ⚙️ **DevOps & Infrastructure** — Exploring containerization, CI/CD pipelines, Linux environments, and automated deployment workflows
+
+- 🔄 **Distributed Systems** — Diving into caching, message brokers, asynchronous processing, and communication across distributed services
+
+---
+
+## ⚡ Featured Projects
 
 ### 🏠 [Staylytics AI](https://github.com/rahulsingh289/AI-Powered-Smart-Review-Analyzer)
 
@@ -55,30 +62,10 @@ Neurix is a modern full-stack AI conversational assistant built to deliver a smo
 
 ---
 
-
-## 🪐 Outside the Terminal
-
-- 🎧 I enjoy listening to **80s & 90s music**
-- ✍️ I write a **daily journal** to reflect, organize my thoughts, and track my growth.
-- ☕ I enjoy **midnight coffee** and late-night thoughts.
-- 🕯️ I enjoy **horror movies**, especially stories that leave you thinking after the credits.
-
-
-
-## 📬 Get in Touch
-
-- 🌐 **Portfolio:** [rahulsingh28.vercel.app](https://rahulsingh28.vercel.app/)
-- 💼 **LinkedIn:** [Rahul Singh](https://www.linkedin.com/in/rahul-singh-64a861300/)
-- 🐙 **GitHub:** [rahulsingh289](https://github.com/rahulsingh289)
-- 🧩 **LeetCode:** [rahulsingh28](https://leetcode.com/u/rahulsingh28/)
-- 📧 **Email:** rahulsingh290k@gmail.com
-
----
-
 <p align="center">
-  <i>Building, learning, and improving 🚀</i>
+  Building software for an AI-driven world.
 </p>
 
 <p align="center">
-  <i>Let's connect and build something great together!</i>
+  Learning fast. Building better. Thinking ahead.
 </p>
