@@ -10,7 +10,7 @@ I enjoy solving challenging problems, exploring new technologies, and continuous
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
 - ⚙️ Building full-stack applications with **React, Node.js, Express.js & MongoDB**
-- 🧠 Strengthening **Data Structures & Algorithms with C++**
+- 🧠 Strengthening **Data Structures & Algorithms**
 - 🔧 Interested in **backend systems, REST APIs, databases & scalable applications**
 - 🧩 Active on **Leetcode** with 200 Days Badge- Solving in C++
 
