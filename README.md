@@ -63,7 +63,7 @@ Neurix is a modern full-stack AI conversational assistant built to deliver a smo
 ---
 
 <p align="center">
-  Building software for an AI-driven world.
+  Building solutions for an AI-driven world.
 </p>
 
 <p align="center">
